@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-12-07 11:24:23">
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_lookup_verify_user" name="sn_lookup_verify_user">040e644db360230001f34d43c6a8dc79</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>15ce5ac91b2c70108acec803604bcb19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="user_admin" name="user_admin">049d55090a0a0a660162aa57a266b241</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcbb3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="user_admin" name="user_admin">049d55090a0a0a660162aa57a266b241</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:34</sys_created_on>
+<sys_id>193be59d2fd001106b5b70682799b6a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:34</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="openapi_admin" name="openapi_admin">049ef2f1e703230035f8c91c03f6a98c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcbc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="user_criteria_admin" name="user_criteria_admin">0c924542c3202100c8b837659bba8ffa</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcbb9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="user_criteria_admin" name="user_criteria_admin">0c924542c3202100c8b837659bba8ffa</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:34</sys_created_on>
+<sys_id>5d3be59d2fd001106b5b70682799b6ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:34</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="template_editor" name="template_editor">124c3e8d8de72010d152b9319a2024fe</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcb1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_my_calling_log_user" name="u_my_calling_log_user">169d03ec1b3074108acec803604bcb2f</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-14 14:49:46</sys_created_on>
+<sys_id>d11808fc1bf074108acec803604bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-14 14:49:46</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_my_calling_log_user" name="u_my_calling_log_user">169d03ec1b3074108acec803604bcb2f</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:34</sys_created_on>
+<sys_id>993be59d2fd001106b5b70682799b6ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:34</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>16</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="skill_user" name="skill_user">181683b137711000deeabfc8bcbe5d45</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>91ce5ac91b2c70108acec803604bcb16</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="assignment_workbench" name="assignment_workbench">1824a685d700220058c92cf65e6103d1</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcb0a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>20</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="template_read_global" name="template_read_global">1bc156f3771000101ecaff046910619e</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>15ce5ac91b2c70108acec803604bcb09</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_shn.user" name="sn_shn.user">1d320f35c303020095ccd02422d3aeb4</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcb0f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.escalation_requester" name="sn_customerservice.escalation_requester">1f2633cc87600300fe4433d4c6cb0b02</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb2a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>3</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.escalation_requester" name="sn_customerservice.escalation_requester">1f2633cc87600300fe4433d4c6cb0b02</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcb27</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="knowledge" name="knowledge">1f26da36c0a8016b000c7f06a1ce7e14</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcb17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="inventory_user" name="inventory_user">1fa5c28eac10018b552d3f77fd23d327</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>1dce5ac91b2c70108acec803604bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="agent_workspace_user" name="agent_workspace_user">20d2eaa35320330030c3ddeeff7b1213</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d5ce5ac91b2c70108acec803604bcb0c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice_manager" name="sn_customerservice_manager">259e90f6c3223100d6d210c422d3aefb</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>ddce5ac91b2c70108acec803604bcb49</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice_manager" name="sn_customerservice_manager">259e90f6c3223100d6d210c422d3aefb</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:34</sys_created_on>
+<sys_id>5d3be59d2fd001106b5b70682799b6ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:34</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice_agent" name="sn_customerservice_agent">3120f52cc312310015519f2974d3ae83</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcb2d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>3</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice_agent" name="sn_customerservice_agent">3120f52cc312310015519f2974d3ae83</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>ddce5ac91b2c70108acec803604bcb70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.contact_manager" name="sn_customerservice.contact_manager">3165e89053c40010c830ddeeff7b1298</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>95ce5ac91b2c70108acec803604bcb22</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.contact_manager" name="sn_customerservice.contact_manager">3165e89053c40010c830ddeeff7b1298</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>613b299d2fd001106b5b70682799b613</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="user_table_access" name="user_table_access">3a7cac9d2f772010b1b955f62799b6fe</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>ddce5ac91b2c70108acec803604bcbbb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="user_table_access" name="user_table_access">3a7cac9d2f772010b1b955f62799b6fe</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>ad3b299d2fd001106b5b70682799b614</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d1ce5ac91b2c70108acec803604bcb0e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="rest_service" name="rest_service">3dfd67229f22110041a496fcc67fcf6c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>0dce1ac91b2c70108acec803604bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>3</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="rest_service" name="rest_service">3dfd67229f22110041a496fcc67fcf6c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>05ce1ac91b2c70108acec803604bcbf4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="snc_platform_rest_api_access" name="snc_platform_rest_api_access">408934d18733320025fbd1a936cb0b88</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>89ce1ac91b2c70108acec803604bcbf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="snc_platform_rest_api_access" name="snc_platform_rest_api_access">408934d18733320025fbd1a936cb0b88</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>a13b299d2fd001106b5b70682799b628</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="csm_ws_integration" name="csm_ws_integration">44bcefc65362030097a2ddeeff7b124e</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>89ce1e491b2c70108acec803604bcb83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="csm_ws_integration" name="csm_ws_integration">44bcefc65362030097a2ddeeff7b124e</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>e53b299d2fd001106b5b70682799b62b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="cmdb_query_builder" name="cmdb_query_builder">45af8773d7002200c1ed0fbc5e61037a</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcb95</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>4</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="skill_admin" name="skill_admin">4916437137711000deeabfc8bcbe5df2</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>55ce5ac91b2c70108acec803604bcb86</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="graphql_schema_admin" name="graphql_schema_admin">52ec813953320010213dddeeff7b125d</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcbc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_customtable_user" name="u_customtable_user">5b7ebe562ffe2010b1b955f62799b6b3</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcbbd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_customtable_user" name="u_customtable_user">5b7ebe562ffe2010b1b955f62799b6b3</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>293b299d2fd001106b5b70682799b62e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_app_cs_social_social_profile_user" name="sn_app_cs_social_social_profile_user">62e7aa92d73022004f1e82285e6103c3</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d1ce5ac91b2c70108acec803604bcb78</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_my_email_log_user" name="u_my_email_log_user">6cb47d581b1170108acec803604bcb32</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-07-08 06:34:36</sys_created_on>
+<sys_id>c6ecb9101b5170108acec803604bcb62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-07-08 06:34:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_my_email_log_user" name="u_my_email_log_user">6cb47d581b1170108acec803604bcb32</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>653b299d2fd001106b5b70682799b630</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="email_client_quick_message_author" name="email_client_quick_message_author">796a2de6771323005a4820089a106119</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>99ce5ac91b2c70108acec803604bcb83</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="chat_admin" name="chat_admin">7f67906c0a0a0b05003e2c61186f82fb</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>19ce5ac91b2c70108acec803604bcb04</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>c9ce1ac91b2c70108acec803604bcbef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>3</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>09ce1ac91b2c70108acec803604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sam" name="sam">81802de11b302000aebbfbcd2c0713b0</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcb9b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="approval_admin" name="approval_admin">85805422c61122890157c76a4036958b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.case_viewer" name="sn_customerservice.case_viewer">85a9e8e70f5800105cbf3694ba767ea8</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d5ce1ac91b2c70108acec803604bcbfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.case_viewer" name="sn_customerservice.case_viewer">85a9e8e70f5800105cbf3694ba767ea8</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>253b299d2fd001106b5b70682799b633</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_templated_snip.template_snippet_writer" name="sn_templated_snip.template_snippet_writer">8ae5d7230b70030036e62c7885673afe</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcb7e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.deescalation_requester" name="sn_customerservice.deescalation_requester">8c83805087a00300fe4433d4c6cb0b21</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>91ce5ac91b2c70108acec803604bcb26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.deescalation_requester" name="sn_customerservice.deescalation_requester">8c83805087a00300fe4433d4c6cb0b21</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>653b299d2fd001106b5b70682799b636</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="web_service_admin" name="web_service_admin">8ced49cb0a0a0b8f00bd2ecf512c510b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d9ce5ac91b2c70108acec803604bcbc1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="web_service_admin" name="web_service_admin">8ced49cb0a0a0b8f00bd2ecf512c510b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>613b299d2fd001106b5b70682799b639</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="api_analytics_read" name="api_analytics_read">94f673079fb01200ef4afa7dc67fcf97</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>01ce1ac91b2c70108acec803604bcbea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.customer_data_viewer" name="sn_customerservice.customer_data_viewer">97b246180fc73300b4ace7b1d4767ef6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>15ce5ac91b2c70108acec803604bcb24</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.customer_data_viewer" name="sn_customerservice.customer_data_viewer">97b246180fc73300b4ace7b1d4767ef6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>f93b299d2fd001106b5b70682799b640</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.proxy_case_creator" name="sn_customerservice.proxy_case_creator">a48ab634eba003009e6263fba206fe20</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcb2b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.proxy_case_creator" name="sn_customerservice.proxy_case_creator">a48ab634eba003009e6263fba206fe20</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>393b299d2fd001106b5b70682799b642</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="financial_mgmt_user" name="financial_mgmt_user">a82c497cc0a80a647174c407eafc37a9</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>91ce5ac91b2c70108acec803604bcb7d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>8</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>89ce1ac91b2c70108acec803604bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>16</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="cmdb_read" name="cmdb_read">ab250967b31213005e3de13516a8dc26</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>51ce5ac91b2c70108acec803604bcb06</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="agent_schedule_user" name="agent_schedule_user">af3964e7c3b312001c845cb981d3ae1f</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>15ce5ac91b2c70108acec803604bcb20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>99ce5ac91b2c70108acec803604bcbb1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>f13b299d2fd001106b5b70682799b644</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_customerservice.consumer_agent" name="sn_customerservice.consumer_agent">b2638ae3c303120095ccd02422d3ae55</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>95ce1ac91b2c70108acec803604bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>3</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_customerservice.consumer_agent" name="sn_customerservice.consumer_agent">b2638ae3c303120095ccd02422d3ae55</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>51ce5ac91b2c70108acec803604bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>22</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="interaction_agent" name="interaction_agent">b523f1d037001300a213a7f07e41f15b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>d5ce5ac91b2c70108acec803604bcb11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>20</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_templated_snip.template_snippet_reader" name="sn_templated_snip.template_snippet_reader">ba25d7230b70030036e62c7885673af6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>59ce5ac91b2c70108acec803604bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_calllog_user" name="u_calllog_user">bc30d7842f362010b1b955f62799b6e2</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>313b299d2fd001106b5b70682799b65e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_genesyscalllog_user" name="u_genesyscalllog_user">bc9727482f762010b1b955f62799b68b</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>7d3b299d2fd001106b5b70682799b65f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="quickactions_user" name="quickactions_user">bdcde4173b303300a0bd8cd834efc41c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb99</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="asset" name="asset">bf7dfe64c0a80169002ee4e83aa20d57</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb76</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>4</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="skill_manager" name="skill_manager">c5eb5209b3132300290ea943c6a8dcba</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d5ce5ac91b2c70108acec803604bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="skill_model_user" name="skill_model_user">c7fac003c3232000c111113e5bba8fe5</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>91ce5ac91b2c70108acec803604bcb91</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_my_phonecalllog_user" name="u_my_phonecalllog_user">ca6de7661be830108acec803604bcb4c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-09 11:11:55</sys_created_on>
+<sys_id>1546e1cb1be030108acec803604bcbd1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-09 11:11:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_my_phonecalllog_user" name="u_my_phonecalllog_user">ca6de7661be830108acec803604bcb4c</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>393b299d2fd001106b5b70682799b661</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_shn.editor" name="sn_shn.editor">d06b6b6ac372020095ccd02422d3ae87</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>99ce5ac91b2c70108acec803604bcb07</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="rest_api_explorer" name="rest_api_explorer">d0d45ba0470002004695d7527c9a71c6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>8dce1ac91b2c70108acec803604bcbe7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>5</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="rest_api_explorer" name="rest_api_explorer">d0d45ba0470002004695d7527c9a71c6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>51ce1ac91b2c70108acec803604bcbf8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_shn.admin" name="sn_shn.admin">d13b6b6ac372020095ccd02422d3ae83</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>9dce5ac91b2c70108acec803604bcb92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>4</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="catalog_editor" name="catalog_editor">d2b8c44a5f2111001c9b2572f2b47748</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d5ce5ac91b2c70108acec803604bcb80</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>55ce5ac91b2c70108acec803604bcb6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_publications.approver" name="sn_publications.approver">e1d46c25c30112004bd67bfaa2d3ae50</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb82</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_my_chat_log_user" name="u_my_chat_log_user">e9b17d211b7cf4108acec803604bcbe6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-17 11:07:06</sys_created_on>
+<sys_id>01e1f2651b3038108acec803604bcbe9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-17 11:07:06</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_my_chat_log_user" name="u_my_chat_log_user">e9b17d211b7cf4108acec803604bcbe6</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>fd3b299d2fd001106b5b70682799b666</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>4</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="model_manager" name="model_manager">f0fc76431b302000aebbfbcd2c071346</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>95ce5ac91b2c70108acec803604bcb8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="email_composer" name="email_composer">f13ae18b3bc63300c869c2c703efc418</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcb1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>6</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="contract_manager" name="contract_manager">f37e91e11b302000aebbfbcd2c07139f</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>91ce5ac91b2c70108acec803604bcb8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_app_cs_social_social_log_user" name="sn_app_cs_social_social_log_user">f3a28f16d73022004f1e82285e6103aa</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>d5ce5ac91b2c70108acec803604bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>10</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="template_editor_global" name="template_editor_global">f581eaad0a0a0bc500fbf9055d015838</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="u_user_user" name="u_user_user">f5f005e12f772010b1b955f62799b653</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>5dce5ac91b2c70108acec803604bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>1</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="u_user_user" name="u_user_user">f5f005e12f772010b1b955f62799b653</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:36</sys_created_on>
+<sys_id>3d3b299d2fd001106b5b70682799b668</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:36</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="awa_manager" name="awa_manager">f5f2cdf293931300ed3ef5be867ffb6f</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>11ce5ac91b2c70108acec803604bcb6e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="sn_esm_agent" name="sn_esm_agent">fbd70204d7010200bef20ee60e610318</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>15ce5ac91b2c70108acec803604bcb9e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>9</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="sn_esm_agent" name="sn_esm_agent">fbd70204d7010200bef20ee60e610318</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:54</sys_created_on>
+<sys_id>95ce5ac91b2c70108acec803604bcb1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:54</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count>2</inh_count>
+<inh_map>cdbd68059f0002003d5c77a0942e70ec</inh_map>
+<inherited>true</inherited>
+<role display_value="category_manager" name="category_manager">fefc3a431b302000aebbfbcd2c071375</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:10:55</sys_created_on>
+<sys_id>51ce5ac91b2c70108acec803604bcb62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-03 10:10:55</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_has_role>
+</unload>

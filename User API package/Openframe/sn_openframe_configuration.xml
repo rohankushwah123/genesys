@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-12-07 11:32:03">
+<sn_openframe_configuration action="INSERT_OR_UPDATE">
+<active>true</active>
+<collapsed_view_enabled>false</collapsed_view_enabled>
+<configuration/>
+<default>false</default>
+<height>592</height>
+<icon_class>icon-phone</icon_class>
+<name>Genesys</name>
+<order/>
+<show_presence_indicator>false</show_presence_indicator>
+<subtitle/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-03 10:00:04</sys_created_on>
+<sys_id>e8eb96491b2c70108acec803604bcb67</sys_id>
+<sys_mod_count>40</sys_mod_count>
+<sys_updated_by>testing</sys_updated_by>
+<sys_updated_on>2021-08-18 07:25:03</sys_updated_on>
+<title/>
+<title_icon>menu</title_icon>
+<url>https://localhost/index.html</url>
+<user_group/>
+<width>391</width>
+</sn_openframe_configuration>
+</unload>

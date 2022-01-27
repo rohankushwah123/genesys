@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-12-07 11:06:11">
+<sys_user_grmember action="INSERT_OR_UPDATE">
+<group display_value="SN_Genesys_API_Roles" name="SN_Genesys_API_Roles">80996d1d2fd001106b5b70682799b6ed</group>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-12-07 10:59:34</sys_created_on>
+<sys_id>053b211d2fd001106b5b70682799b610</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-12-07 10:59:34</sys_updated_on>
+<user display_value="sngenesys api">d4cc52891b2c70108acec803604bcb66</user>
+</sys_user_grmember>
+</unload>
